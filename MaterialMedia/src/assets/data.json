@@ -1,0 +1,21 @@
+
+  [
+      {
+        "img": "assets/images/mafia1.jpg",
+        "description": "Mafia is a 2002 action-adventure video game developed by Illusion Softworks and published by Gathering of Developers..",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/mafia2.png",
+        "description": "Mafia II is a open world action-adventure video game developed by 2K Czech and published by 2K Games.",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/mafia3.jpg",
+        "description": "Mafia III is a action-adventure video game developed by Hangar 13 and published by 2K Games. It was released in October 2016 for PlayStation 4, Xbox One, and Microsoft Windows, and in May 2017 for macOS..",
+        "liked": "0"
+      }
+  ]
+
+
+
